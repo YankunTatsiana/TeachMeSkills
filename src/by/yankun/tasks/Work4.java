@@ -13,7 +13,7 @@ public class Work4 {
         int mass[][] = new int[a][a];
         for (int i = 0; i < a; i++) {
             for (int j = 0; j < a; j++) {
-                mass[i][j] = random.nextInt(50);
+                mass[i][j] = random.nextInt(70);
             }
         }
         for (int i = 0; i < a; i++) {
