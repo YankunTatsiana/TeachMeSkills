@@ -1,4 +1,4 @@
-//package Package1;
+//package Lesson2;
 //
 //public class AdditionHomework2 {
 //Task 1.1

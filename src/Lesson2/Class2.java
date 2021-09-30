@@ -1,4 +1,4 @@
-//package Package1;
+//package Lesson2;
 //
 //import java.awt.*;
 //import java.io.PrintStream;

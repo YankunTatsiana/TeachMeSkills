@@ -1,4 +1,4 @@
-package by.yankun.tasks;
+package by.yankun.tasks.Lesson5;
 
 import java.util.Scanner;
 

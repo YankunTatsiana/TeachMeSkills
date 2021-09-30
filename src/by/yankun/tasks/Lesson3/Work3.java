@@ -1,4 +1,4 @@
-//package Package1;
+//package Lesson3;
 //
 //public class Work3 {
 //    public static void main(String[] args) {
