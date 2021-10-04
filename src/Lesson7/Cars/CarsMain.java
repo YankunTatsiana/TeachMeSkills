@@ -2,7 +2,10 @@
 //
 //public class CarsMain {
 //    public static void main(String args[]) {
-//        Car car1 = new Car("Audi", "sportcar",2.98, "Янкун Сергей Вечеславович", 9.78 );
+//        Car [] cars = new Car[];
+//        cars[0] = new Driver("Kody", 8);
+//        cars [0] = new Engine(9.4, "Shkoda");
+//        cars[0] = new Car("Shkoda", "sedan", 7.9, "tgf",9);
 //        car1.toString();
 //    }
 //}

@@ -4,7 +4,7 @@ public class Car {
     private String carModel;
     private String carClass;
     private double weight;
-    private Driver driver;
+    public Driver driver;
     private Engine engine;
 
     public Car(String carModel, String carClass, double weight, Driver driver, Engine engine) {
@@ -66,7 +66,7 @@ public class Car {
 
     @Override
     public String toString() {
-        return "Car{" +
+        return "Car:" +
                 "carModel='" + carModel + '\'' +
                 ", carClass='" + carClass + '\'' +
                 ", weight=" + weight +
